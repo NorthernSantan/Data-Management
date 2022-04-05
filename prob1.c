@@ -10,7 +10,7 @@
 #define NVIO 3
 #define NMARBLES 26
 
-#define MAX_TRIALS 100
+#define MAX_TRIALS 500
 
 int main() {
 
